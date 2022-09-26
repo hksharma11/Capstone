@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZK948AG\\source\\repos\\Capstone_Delta\\CategoryServices\\CategoryServices.csproj": {}
+    "C:\\Users\\BB761ZT\\OneDrive - EY\\Documents\\GitHub\\Capstone\\CategoryServices\\CategoryServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZK948AG\\source\\repos\\Capstone_Delta\\CategoryServices\\CategoryServices.csproj": {
+    "C:\\Users\\BB761ZT\\OneDrive - EY\\Documents\\GitHub\\Capstone\\CategoryServices\\CategoryServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZK948AG\\source\\repos\\Capstone_Delta\\CategoryServices\\CategoryServices.csproj",
+        "projectUniqueName": "C:\\Users\\BB761ZT\\OneDrive - EY\\Documents\\GitHub\\Capstone\\CategoryServices\\CategoryServices.csproj",
         "projectName": "CategoryServices",
-        "projectPath": "C:\\Users\\ZK948AG\\source\\repos\\Capstone_Delta\\CategoryServices\\CategoryServices.csproj",
-        "packagesPath": "C:\\Users\\ZK948AG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZK948AG\\source\\repos\\Capstone_Delta\\CategoryServices\\obj\\",
+        "projectPath": "C:\\Users\\BB761ZT\\OneDrive - EY\\Documents\\GitHub\\Capstone\\CategoryServices\\CategoryServices.csproj",
+        "packagesPath": "C:\\Users\\BB761ZT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BB761ZT\\OneDrive - EY\\Documents\\GitHub\\Capstone\\CategoryServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ZK948AG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\BB761ZT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,12 +79,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -93,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
