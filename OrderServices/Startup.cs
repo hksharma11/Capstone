@@ -43,7 +43,11 @@ namespace OrderServices
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseSwagger();
+            app.UseSwaggerUI(op => {
+                op.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
+                op.RoutePrefix = string.Empty;
+            });
             app.UseHttpsRedirection();
 
             app.UseRouting();
