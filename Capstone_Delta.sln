@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderServices", "OrderServi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CategoryServices", "CategoryServices\CategoryServices.csproj", "{BEE4D25D-A4C9-4A91-BA18-7662EBEA211A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "APIGateway\APIGateway.csproj", "{946CCB57-A4CD-442E-86FC-916F1798A491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIGateway", "APIGateway\APIGateway.csproj", "{946CCB57-A4CD-442E-86FC-916F1798A491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentServices", "PaymentServices\PaymentServices.csproj", "{CA614A0F-E42E-4AF5-AB69-F90E6F227E36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentServices", "PaymentServices\PaymentServices.csproj", "{CA614A0F-E42E-4AF5-AB69-F90E6F227E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginService", "LoginService\LoginService.csproj", "{9E196C84-DC77-4F65-BD88-7410EDF76193}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CA614A0F-E42E-4AF5-AB69-F90E6F227E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA614A0F-E42E-4AF5-AB69-F90E6F227E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA614A0F-E42E-4AF5-AB69-F90E6F227E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E196C84-DC77-4F65-BD88-7410EDF76193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E196C84-DC77-4F65-BD88-7410EDF76193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E196C84-DC77-4F65-BD88-7410EDF76193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E196C84-DC77-4F65-BD88-7410EDF76193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
